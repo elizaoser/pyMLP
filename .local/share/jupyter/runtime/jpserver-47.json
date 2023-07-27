@@ -1,0 +1,13 @@
+{
+  "base_url": "/binder/jupyter/user/elizaoser-pymlp-wwp4v4tb/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 47,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "RaOTLhAuRkCv90_y6CHY-g",
+  "url": "http://jupyter-elizaoser-2dpymlp-2dwwp4v4tb:8888/binder/jupyter/user/elizaoser-pymlp-wwp4v4tb/",
+  "version": "1.23.6"
+}
